@@ -12,6 +12,7 @@ import com.example.myapplication.screens.Contactanos
 import com.example.myapplication.screens.Olvidar1
 import com.example.myapplication.screens.Olvidar2
 import com.example.myapplication.screens.Olvidar3
+import com.example.myapplication.screens.busquedafil
 
 
 class MainActivity : ComponentActivity() {
@@ -28,6 +29,7 @@ class MainActivity : ComponentActivity() {
 fun MyApp() {
     Column {
 
-        Olvidar3()
+        busquedafil()
     }
 }
+
