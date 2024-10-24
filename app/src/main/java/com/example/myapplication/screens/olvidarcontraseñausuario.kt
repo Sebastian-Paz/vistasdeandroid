@@ -70,7 +70,9 @@ fun Olvidar1() {
                 .offset(x = -5.dp, y = 0.dp)
                 .size(435.dp, 560.dp), // Aumentar el tamaño de la imagen también
         )
+
         // Empty-1141:228-Rectangle 691
+
         Box(
             modifier = Modifier
                 .align(Alignment.TopStart)
@@ -108,8 +110,8 @@ fun Olvidar1() {
             )
         }
 
-
         // Empty-1141:233-Rectangle 722
+        
         Box(
             modifier = Modifier
                 .align(Alignment.TopStart)
